@@ -10,7 +10,7 @@ class Macvim < Formula
   
   def patches
     # Apply breakindent patch
-    "https://retracile.net/attachment/blog/2012/12/21/17.30/vim-7.3.682-breakindent.patch"
+    "https://retracile.net/raw-attachment/blog/2012/12/21/17.30/vim-7.3.682-breakindent.patch"
   end
 
   option "custom-icons", "Try to generate custom document icons"
