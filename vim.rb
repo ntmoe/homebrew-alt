@@ -11,7 +11,7 @@ class Vim < Formula
   
   def patches
     # Apply breakindent patch
-    "https://retracile.net/raw-attachment/blog/2011/08/23/21.30/vim-7.3.285-breakindent.patch"
+    "https://retracile.net/attachment/blog/2012/12/21/17.30/vim-7.3.682-breakindent.patch"
   end
 
   env :std # To find interpreters
