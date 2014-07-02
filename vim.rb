@@ -9,7 +9,7 @@ class Vim < Formula
 
   def patches
     # Apply breakindent patch
-    "https://retracile.net/raw-attachment/blog/2013/06/01/20.00/vim-7.3.944-fc17-breakindent.patch"
+    "https://retracile.net/raw-attachment/blog/2013/09/12/23.00/vim-7.4.16-fc19-breakindent.patch"
   end
 
   # We only have special support for finding depends_on :python, but not yet for
